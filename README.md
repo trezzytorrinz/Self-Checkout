@@ -12,13 +12,14 @@ Now the loop is set up, we need to start gathering information for the subtotal.
 
 
 
-While the lists are being printed, the subtotal is taken to be multiplied by the percented sales tax chosen. For the project I had to do, it was 9%. So, I took 9% and multiplied it to the subtotal. Whatever gets totaled, it will then be added to the subtotal to get the final total. The program will then ask the user to insert a cash value to pay for the items purchased. There will be two scenarios for this. If the user inputs a value higher than or equal the final total, it will display the cash returned to them ending the program. If the cash value is lower than the final total, it will display "insufficient funds" which also ends the program. It will look something like this for the first scenario.
+While the lists are being printed, the subtotal is taken to be multiplied by the percented sales tax chosen. For the project I had to do, it was 9%. So, I took 9% and multiplied it to the subtotal. Whatever gets totaled, it will then be added to the subtotal to get the final total. The program will then ask the user to insert a cash value to pay for the items purchased. There will be two scenarios for this. If the user inputs a value higher than or equal the final total, it will display the cash returned to them ending the program. If the cash value is lower than the final total, it will display "insufficient funds" which also ends the program. 
+
+It will look something like this for the first scenario.
 
 ![Programming Project 3 Results 1 2](https://github.com/trezzytorrinz/Self-Checkout/assets/146397231/23f243dc-4627-4bbd-bece-bdd7104466ec)
 
 
 It will look something like this for the second scenario.
-
 
 ![Programming Project 3 Results 2](https://github.com/trezzytorrinz/Self-Checkout/assets/146397231/455d0a14-aa3f-4413-8f30-2e25c8b68fac)
 

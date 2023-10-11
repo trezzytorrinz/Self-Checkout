@@ -2,10 +2,10 @@
 The main purpose of this program was for a project my CS230 teacher gave the class. We were meant to create a self-checkout program that fit the picture description we were given. This program requires the user to self input certain values as well. It is possble to be simplified further with dictionary rather than lists. It is something I am currently working on. 
 
 # Methodology
-The way this program works starts at the very top. This function is a return for sales taxes. In a real world scenario, there is a percentage of taxes on a subtotal before given the final total. It has interchangeable values to fitting for many scenarios. ***At least, within the U.S.***
-Next, the second function is used to gather information from the user's inputs to calculate the subtotal. This part will loop as many times required until the counter is equal to the total of items they are purchasing. _This will become important later._
+The way this program works starts at the very top. This code block is a return for sales taxes. In a real world scenario, there is a percentage of taxes on a subtotal before given the final total. It has interchangeable values to fitting for many scenarios. ***At least, within the U.S.***
+Next, the second code block is used to gather information from the user's inputs to calculate the subtotal. This part will loop as many times required until the counter is equal to the total of items they are purchasing. _This will become important later._
 
-Now the loop is set up, we need to start gathering information for the subtotal. There are two things required in order to get it. The first being the name of the item the user is purchasing and the second being the value of said item. These both are user-inputted from a prompt. The name and price are put in separate lists to be stored. After that, the price gets put in another value in order to be totaled up. When the loop finishes, the lists are printed in a format of **"Name: $ Price"**. It should look something like this.
+Now the loop is set up, we need to start gathering information for the subtotal. There are two things required in order to get it. The first being the name of the item the user is purchasing and the second being the value of said item. These both are user-inputted from a prompt. The name and price are put in separate lists to be stored. After that, the price gets put in another function in order to be totaled up. When the loop finishes, the lists are printed in a format of **"Name: $ Price"**. It should look something like this.
 
 
 ![Programming Project 3 Results 1 1](https://github.com/trezzytorrinz/Self-Checkout/assets/146397231/bbdd1851-2d2c-4711-b951-6a3b3eb00a17)

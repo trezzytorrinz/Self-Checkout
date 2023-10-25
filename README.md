@@ -8,7 +8,7 @@ Next, the second code block is used to gather information from the user's inputs
 Now the loop is set up, we need to start gathering information for the subtotal. There are two things required in order to get it. The first being the name of the item the user is purchasing and the second being the value of said item. These both are user-inputted from a prompt. The name and price are put in separate lists to be stored. After that, the price gets put in another function in order to be totaled up. When the loop finishes, the lists are printed in a format of **"Name: $ Price"**. It should look something like this.
 
 
-![Programming Project 3 Results 1 1](https://github.com/trezzytorrinz/Self-Checkout/assets/146397231/bbdd1851-2d2c-4711-b951-6a3b3eb00a17)
+![Programming Project 3 Results 1 1](https://github.com/trezzytorrinz/Self-Checkout/assets/146397231/5bae3594-b80b-49d5-9be7-422169249d3c)
 
 
 
@@ -16,12 +16,11 @@ While the lists are being printed, the subtotal is taken to be multiplied by the
 
 It will look something like this for the first scenario.
 
-![Programming Project 3 Results 1 2](https://github.com/trezzytorrinz/Self-Checkout/assets/146397231/23f243dc-4627-4bbd-bece-bdd7104466ec)
-
+![Programming Project 3 Results 1 2](https://github.com/trezzytorrinz/Self-Checkout/assets/146397231/c2363f7a-df9e-45fb-a03e-464a838e66f3)
 
 It will look something like this for the second scenario.
 
-![Programming Project 3 Results 2](https://github.com/trezzytorrinz/Self-Checkout/assets/146397231/455d0a14-aa3f-4413-8f30-2e25c8b68fac)
+![Programming Project 3 Results 2](https://github.com/trezzytorrinz/Self-Checkout/assets/146397231/7d425bbb-b06b-466f-97a7-1586ae803a08)
 
 
 
